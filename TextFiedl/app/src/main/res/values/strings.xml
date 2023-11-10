@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextFiedl</string>
+    <string name="Uno">¿Es mejor Cristiano que Messi?</string>
+    <string name="Dos">¿El Real Madrid es mejor equipo del Barca?</string>
+    <string name="Tres">¿El Real Madrid tiene muchas mas Champions que el Barca?</string>
+    <string name="Cuatro">¿El Real Madrid tiene mas titulos que el Barca?</string>
+    <string name="Cinco">¿El Barca a pagado a arbitros durante mas de 20 años?</string>
+</resources>
